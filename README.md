@@ -1,2 +1,2 @@
-# DSIII--EX1
-learning python -first class exercise
+# DSIII--EXERCISES
+learning python -class exerciseS
